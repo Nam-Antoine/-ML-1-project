@@ -1,6 +1,6 @@
 # Can AI Help You Build a Better Machine Learning Model?
 
-**Course:** ICT 3.3 Machine Learning and Data Mining
+**Course:** Machine Learning and Data Mining 1
 **Date:** May 2026
 
 ---
@@ -21,11 +21,11 @@ This project investigates whether an AI assistant (LLM) can meaningfully improve
 ---
 
 ## Dataset & Task
-
-- **Dataset:** _[e.g., Palmer Penguins / Heart Disease / Student Performance]_
-- **Task:** _[e.g., Classify penguin species from body measurements]_
-- **Type:** _[Classification / Regression / Clustering]_
-- **Source:** _[link to dataset]_
+ 
+- **Dataset:** Spotify Tracks Dataset (`yashdev01` on Kaggle) — ~114,000 tracks across ~114 genres, with audio features extracted from the Spotify API (valence, energy, danceability, loudness, tempo, acousticness, speechiness, instrumentalness, liveness, mode, key, time_signature, duration, explicit).
+- **Task:** Classify each song into one of four mood quadrants — **Happy** (high valence + high energy), **Angry** (low valence + high energy), **Calm** (high valence + low energy), or **Sad** (low valence + low energy) — using audio features *excluding* `valence` and `energy`.
+- **Type:** Multi-class classification (4 classes). Baseline = Multinomial Logistic Regression; improved version adds one LLM-suggested engineered feature.
+- **Source:** https://www.kaggle.com/datasets/yashdev01/spotify-tracks-dataset
 
 ---
 
@@ -128,12 +128,12 @@ _[Short honest reflection — 2–3 sentences. Did it suggest something useful? 
 
 ## License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License & Kaggle License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## Acknowledgments
 
-- Course staff for ICT 3.3 Machine Learning and Data Mining
+- Course staff for Machine Learning and Data Mining
 - Dataset providers (see Dataset section)
 - Google AI Studio for free-tier Gemini API access
