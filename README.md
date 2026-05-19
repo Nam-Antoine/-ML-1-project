@@ -62,8 +62,8 @@ This project investigates whether an AI assistant (LLM) can meaningfully improve
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/[your-group]/ml-course.git
-cd ml-course
+git clone https://github.com/Nam-Antoine/ML1-project.git
+cd ML1-project
 ```
 
 ### 2. Install dependencies
