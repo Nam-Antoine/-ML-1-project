@@ -33,10 +33,10 @@ This project investigates whether an AI assistant (LLM) can meaningfully improve
 
 | Member | Role | Responsibilities |
 |---|---|---|
-| _[Name]_ | Project Manager | Coordination, deadlines, unblocking |
-| _[Name]_ | Data | Loading, cleaning, exploration, visualization |
-| _[Name]_ | Modeling | Baseline + improved model, metrics, error export |
-| _[Name]_ | Slides & Error Analysis | 3 mistake explanations, slides, presentation |
+| _[Tran Khoa Nam]_ | Project Manager | Coordination, deadlines, unblocking |
+| _[Vu Duc An]_ | Data | Loading, cleaning, exploration, visualization |
+| _[Nguyen Anh Tuan]_ | Modeling | Baseline + improved model, metrics, error export |
+| _[Phan Nam Anh]_ | Slides & Error Analysis | 3 mistake explanations, slides, presentation |
 
 ---
 
