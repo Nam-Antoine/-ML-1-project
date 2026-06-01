@@ -1,0 +1,3 @@
+model,accuracy,macro_f1,note
+baseline,0.6367939025139836,0.580577540029907,"logistic regression, original features"
+improved,0.6367324359210769,0.5804957176318127,added dynamic_intensity from Gemini
